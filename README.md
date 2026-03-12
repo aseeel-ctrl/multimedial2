@@ -1,14 +1,16 @@
 
 
-##Exploración creativa de arte, tecnología y medios digitales interactivos.
-##Cultura web y arte digital.
-###Ejercico 1, semana 1:
-###Taller multimedial
+
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
 <html>
 <!-- Inicio del documento HTML -->
+
+##Exploración creativa de arte, tecnología y medios digitales interactivos.
+##Cultura web y arte digital.
+###Ejercico 1, semana 1:
+###Taller multimedial
 
 <head>
 <!-- Sección donde van metadatos, título y estilos -->
