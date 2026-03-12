@@ -1,6 +1,6 @@
 # multimedial2
 <!DOCTYPE html> 
-<html lang="es">
+<html>
   <head>
     <meta charset="UTF-8">
   <title> Hola </title> 
@@ -26,7 +26,6 @@
 
 Hola carlita
 
-  
 </body>
 
 </html> 
